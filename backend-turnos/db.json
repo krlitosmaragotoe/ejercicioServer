@@ -1,0 +1,11 @@
+{
+  "turnos": [],
+  "reservas": [],
+  "usuarios": [
+    {
+      "id": 1,
+      "email": "admin@sistema.com",
+      "password": "admin123"
+    }
+  ]
+}
